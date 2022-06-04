@@ -5,7 +5,7 @@ body {
     background-color: #dce4fc;
 }
 #header-nav {
-    background-color: #92f3bb;
+    background-color: #abf1c8;
     border-radius: 0;
     border: 0;
 }
@@ -13,7 +13,7 @@ body {
     margin-top: 22px;
 }
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color: #92f3bb;
+    background-color: #abf1c8;
 }
 .navbar-collapse {
     border-top: 0;
@@ -31,10 +31,10 @@ body {
 }
 .navbar-brand a:hover {
     text-decoration: none;
-    text-shadow: 1px 1px 1px #8d8ff7;
+    text-shadow: 1px 1px 1px #b7b8f7;
 }
 #nav-list {
-    background-color: #92f3bb;
+    background-color: #abf1c8;
 }
 #nav-list a {
     font-weight: bolder;
@@ -43,7 +43,7 @@ body {
 }
 #nav-list a:hover {
     color: #202020;
-    background-color: #92f3bb;
+    background-color: #abf1c8;
 }
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
     border: 1px solid #f0bd17;
@@ -66,9 +66,9 @@ body {
 #tile{
     width: 100%;
     padding: 20px;
-    background-color: #8d8ff7;
+    background-color: #b7b8f7;
     margin-bottom: 60px;
-    box-shadow: 0 0 80px #8d8ff7;
+    box-shadow: 0 0 80px #b7b8f7;
     font-style: italic;
     text-align: center;
 }
